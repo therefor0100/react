@@ -1,0 +1,177 @@
+.carbox{
+	width:7.5rem;
+	min-height:3.55rem;
+	background:#fff;
+	border-top:#d8d8d8;
+	border-bottom:#d8d8d8;
+	margin-top:18px;
+}
+
+.box-top{
+	width:7.5rem;
+	height:0.66rem;
+	border-bottom:1px dashed #d8d8d8;
+}
+.top-ipt{
+	float:left;
+	width:0.38rem;
+	height:0.38rem;
+	margin-left:0.17rem;
+	margin-top:0.16rem;
+}
+.top-img{
+	float:left;
+	width:0.32rem;
+	height:0.3rem;
+	margin:0.18rem 0.2rem 0;
+}
+.top-span1{
+	float:left;
+	line-height:0.66rem;
+	font-size:0.26rem;
+}
+.top-span2{
+	float:right;
+	line-height:0.66rem;
+	font-size:0.26rem;
+	margin-right:0.22rem;
+}
+.box-center{
+	width:7.5rem;
+	height:2.2rem;
+	padding-bottom:0.15rem;
+	border-bottom:1px dashed #d8d8d8;
+}
+.center-ipt{
+	float:left;
+	width:0.38rem;
+	height:0.38rem;
+	margin-left:0.17rem;
+	margin-top:0.80rem;
+	margin-right:0.17rem;
+}
+.center-span1{
+	float:left;
+	width:1.84rem;
+	height:2.2rem;
+	margin-right:0.2rem;
+}
+.center-span1>img{
+	width:1.84rem;
+	height:2.2rem;
+}
+.center-span2{
+	float:left;
+	margin-top:0.4rem;
+	width:4.6rem;
+	font-size:0.26rem;
+}
+.center-p1{
+	margin-top:0.13rem;
+	width:4.6rem;
+	white-space:nowrap;
+	overflow:hidden;
+	text-overflow:ellipsis;
+}
+.center-p2{
+	margin-top:0.13rem;
+	width:4.6rem;
+}
+.center-p3{
+	margin-top:0.13rem;
+	width:4.6rem;
+}
+.center-p4{
+	margin-top:0.13rem;
+	width:4.6rem;
+}
+.center-p4-span{
+	color:#ff6b00;
+	float:right;
+}
+.box-bottom{
+	line-height: 0.55rem;
+	text-indent: 0.5rem;
+}
+.total{
+	width:7.5rem;
+	height:0.76rem;
+	border-top:1px solid #ccc;
+	border-bottom:1px solid #ccc;
+	font-size: 0.25rem;
+	line-height: 0.76rem;
+}
+.total-left{
+	float:left;
+	line-height: 0.76rem;
+}
+.total-ipt{
+	float:left;
+	width:0.38rem;
+	height:0.38rem;
+	margin:0.18rem 0.17rem 0;
+	
+}
+.total-center{
+	float:right;
+}
+.total-right{
+	float:right;
+	width:1.38rem;
+	height:0.74rem;
+	border:1px solid #eee;
+	background:#fc6b00;
+	text-align: center;
+	font-size: 0.32rem;
+	color:#fff;
+	font-weight: bolder;
+}
+.total-color{
+	color:#fc6b00;
+	font-weight: bolder;
+}
+/*=============================编辑页面=============================*/
+.peisongriqi{
+	height:0.76rem;
+	width:4.6rem;
+	margin-top:-0.3rem;
+	line-height:0.76rem;
+	margin-bottom: 0.16rem;
+}
+.riqi{
+	width:2.88rem;
+	float:left;
+	height:0.74rem;
+	border:1px solid #ccc;
+	text-align: center;
+}
+.peisong{
+	float: right;
+}
+.goumaishuliang{
+	height:0.76rem;
+	width:4.6rem;
+	line-height:0.76rem;
+}
+.minus,.add{
+	float: left;
+	width:0.76rem;
+	height:0.76rem;
+	background: #c2c2c2;
+	text-align: center;
+	color:#fff;
+	font-weight: bolder;
+	font-size: 0.8rem;
+}
+.number{
+	float: left;
+	width:1.4rem;
+	height:0.73rem;
+	border-top:1px solid #c2c2c2;
+	border-bottom:1px solid #c2c2c2;
+	text-align: center;
+	font-size: 0.4rem;
+}
+#del{
+	background: #ccc;
+}
